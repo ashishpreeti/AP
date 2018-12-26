@@ -1128,7 +1128,11 @@ header {
 		transition:0.3s all ease-out;
 		transition-delay:0.5s;
 		top: 0;
-		font: 14px/24px Roboto Condensed
+		font: 14px/24px Roboto Condensed;
+		    display: flex;
+         justify-content: center;
+            align-items: center;
+		
 	}
 		.paper .paper_title {
 			margin: 10px 0 30px 0;
