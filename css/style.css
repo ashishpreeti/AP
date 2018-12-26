@@ -89,7 +89,6 @@ h2:after {
 		height:40px;
 		transform:rotate(17deg);
 		margin:9px 0 0 13px;
-		background:#d9c6b1
 	}
 hr {
 	max-width: 500px;
@@ -125,7 +124,6 @@ hr {
 		color:#fff
 	}
 	.white_txt h2 span:after {
-		background:#fff
 	}
 	.white_txt .slash i{
 		background:#fff
@@ -504,7 +502,7 @@ header {
 	.bullet span {
 		position: absolute;
 		margin: -3px 0 0 -35px;
-		opacity: 0.5;
+		
 		font: 400 18px/28px Roboto Condensed
 	}
 		.bullet span b {
@@ -1337,8 +1335,8 @@ header {
 		margin: 20px auto 0
 	}
 	.title0 {
-		font:300 16px/28px Roboto Condensed;
-		color:rgba(255,255,255,0.5);
+		font:300 18px/28px Roboto Condensed;
+		color:white;
 	}
 	.title1 {
 		font:46px/48px Great Vibes;
